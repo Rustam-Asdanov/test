@@ -1,0 +1,11 @@
+git init - create new repository in github
+git status - shows which elements are untracked and commited
+git add file-name - add this file for sending to branch
+git add . - add all changes for sending to branch
+git commit -m "message in PRESENT Tense" - add element 
+		to commit and create point
+git log - show commits
+git diff file_name - shows difference between current file and 
+	last commited file
+git checkout file_name - roll back current file into last commited typeb
+
