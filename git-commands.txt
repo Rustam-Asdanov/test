@@ -17,3 +17,10 @@ add file name to .gitignore file and this file never commited
 if you want to add specific file format use:
 for example:
 	*.txt - ignore all txt files while commiting
+
+git clone repo-url - download project that you mentioned
+we have use branches in git for experiment
+git branch branch_name - create new branch
+git branch - show all branches you have
+git checkout branch_name - switch to branch which you mentioned
+
